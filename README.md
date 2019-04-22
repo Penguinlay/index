@@ -10,7 +10,7 @@ https://github.com/Penguinlay/basters
 
 ---
 
-## Note:
+## note
 - 🚧 Work In Progress
 
 ---
