@@ -7,6 +7,7 @@ Repository [Index](https://github.com/Penguinlay/index) for [Penguinlay](https:/
 | Repository                                       | Clone                                   |
 |:------------------------------------------------:|:---------------------------------------:|
 | [basters](https://github.com/Penguinlay/basters) | `git@github.com:Penguinlay/basters.git` |
+| [brewers](https://github.com/Penguinlay/basters) | `git@github.com:Penguinlay/brewers.git` |
 | [zesters](https://github.com/Penguinlay/zesters) | `git@github.com:Penguinlay/zesters.git` |
 
 ---
