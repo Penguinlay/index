@@ -20,23 +20,24 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 
 ---
 
-## archives
+## past
 
 ### Fall 2017, Ruby on Rails DeCal, UC Berkeley
-|                 | Repository                                             | Clone                                     | Description |
-|:---------------:|:------------------------------------------------------:|:-----------------------------------------:|:-----------:|
-| [top](#indexes) | [`fa17-lab1`](https://github.com/Penguinlay/fa17-lab1) | `git@github.com:Penguinlay/fa17-lab1.git` | Lab 1       |
-| [top](#indexes) | [`fa17-lab2`](https://github.com/Penguinlay/fa17-lab2) | `git@github.com:Penguinlay/fa17-lab2.git` | Lab 2       |
-| [top](#indexes) | [`fa17-hw1`](https://github.com/Penguinlay/fa17-hw1)   | `git@github.com:Penguinlay/fa17-hw1.git`  | Homework 1  |
-| [top](#indexes) | [`fa17-hw2`](https://github.com/Penguinlay/fa17-hw2)   | `git@github.com:Penguinlay/fa17-hw2.git`  | Homework 2  |
-| [top](#indexes) | [`fa17-hw3`](https://github.com/Penguinlay/fa17-hw3)   | `git@github.com:Penguinlay/fa17-hw3.git`  | Homework 3  |
-| [top](#indexes) | [`fa17-hw4`](https://github.com/Penguinlay/fa17-hw4)   | `git@github.com:Penguinlay/fa17-hw4.git`  | Homework 4  |
-| [top](#indexes) | [`ror-proj1`](https://github.com/Penguinlay/ror-proj1) | `git@github.com:Penguinlay/ror-proj1.git` | Project 1: PokePortal |
-| [top](#indexes) | [`Cryptus`](https://github.com/Penguinlay/Cryptus)     | `git@github.com:Penguinlay/Cryptus.git`   | Final Project: Crytocurrency Market |
+|                 | Repository                                             | Clone                                     | Description                         | Status           |
+|:---------------:|:------------------------------------------------------:|:-----------------------------------------:|:-----------------------------------:|:----------------:|
+| [top](#indexes) | [`fa17-lab1`](https://github.com/Penguinlay/fa17-lab1) | `git@github.com:Penguinlay/fa17-lab1.git` | Lab 1                               | Public archived  |
+| [top](#indexes) | [`fa17-lab2`](https://github.com/Penguinlay/fa17-lab2) | `git@github.com:Penguinlay/fa17-lab2.git` | Lab 2                               | Public archived  |
+| [top](#indexes) | [`fa17-hw1`](https://github.com/Penguinlay/fa17-hw1)   | `git@github.com:Penguinlay/fa17-hw1.git`  | Homework 1                          | Public archived  |
+| [top](#indexes) | [`fa17-hw2`](https://github.com/Penguinlay/fa17-hw2)   | `git@github.com:Penguinlay/fa17-hw2.git`  | Homework 2                          | Public archived  |
+| [top](#indexes) | [`fa17-hw3`](https://github.com/Penguinlay/fa17-hw3)   | `git@github.com:Penguinlay/fa17-hw3.git`  | Homework 3                          | Public archived  |
+| [top](#indexes) | [`fa17-hw4`](https://github.com/Penguinlay/fa17-hw4)   | `git@github.com:Penguinlay/fa17-hw4.git`  | Homework 4                          | Public archived  |
+| [top]($indexes) | [`ror`](https://github.com/Penguinlay/ror)             | `https://github.com/Penguinlay/ror.git`   | Practice Application                | Private archived |
+| [top](#indexes) | [`ror-proj1`](https://github.com/Penguinlay/ror-proj1) | `git@github.com:Penguinlay/ror-proj1.git` | Project 1: PokePortal               | Public           |
+| [top](#indexes) | [`Cryptus`](https://github.com/Penguinlay/Cryptus)     | `git@github.com:Penguinlay/Cryptus.git`   | Final Project: Crytocurrency Market | Public           |
 
 ### Fall 2018, CS61C, UC Berkeley
-|                 | Repository                                                                             | Clone                                     | Description                                       |
-|:---------------:|:--------------------------------------------------------------------------------------:|:-----------------------------------------:|:-------------------------------------------------:|
-| [top](#indexes) | [`61c-fa18-proj2-penguinlay`](https://github.com/Penguinlay/61c-fa18-proj2-penguinlay) | `git@github.com:Penguinlay/fa17-lab1.git` | Project 2: Shape from Stereo, Performance Project |
+|                 | Repository                                                                             | Clone                                     | Description                               | Status  |
+|:---------------:|:--------------------------------------------------------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-------:|
+| [top](#indexes) | [`61c-fa18-proj2-penguinlay`](https://github.com/Penguinlay/61c-fa18-proj2-penguinlay) | `git@github.com:Penguinlay/fa17-lab1.git` | Project 2: Shape from Stereo, Performance | Private |
 
 ---
