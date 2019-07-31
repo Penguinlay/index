@@ -31,9 +31,20 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 | [top](#indexes) | [`fa17-hw2`](https://github.com/Penguinlay/fa17-hw2)   | `git@github.com:Penguinlay/fa17-hw2.git`  | Homework 2                            | Public archived  |
 | [top](#indexes) | [`fa17-hw3`](https://github.com/Penguinlay/fa17-hw3)   | `git@github.com:Penguinlay/fa17-hw3.git`  | Homework 3                            | Public archived  |
 | [top](#indexes) | [`fa17-hw4`](https://github.com/Penguinlay/fa17-hw4)   | `git@github.com:Penguinlay/fa17-hw4.git`  | Homework 4                            | Public archived  |
-| [top]($indexes) | [`ror`](https://github.com/Penguinlay/ror)             | `https://github.com/Penguinlay/ror.git`   | Practice Application                  | Private archived |
+| [top]($indexes) | [`ror`](https://github.com/Penguinlay/ror)             | `git@github.com/Penguinlay/ror.git`       | Practice Application                  | Private archived |
 | [top](#indexes) | [`ror-proj1`](https://github.com/Penguinlay/ror-proj1) | `git@github.com:Penguinlay/ror-proj1.git` | Project 1<br>PokePortal               | Public           |
 | [top](#indexes) | [`Cryptus`](https://github.com/Penguinlay/Cryptus)     | `git@github.com:Penguinlay/Cryptus.git`   | Final Project<br>Crytocurrency Market | Public           |
+
+### Spring 2018, SafeSpace
+|                 | Repository                                             | Clone                                     | Description              | Status  |
+|:---------------:|:------------------------------------------------------:|:-----------------------------------------:|:------------------------:|:-------:|
+| [top](#indexes) | [`safespace`](https://github.com/Penguinlay/safespace) | `git@github.com:Penguinlay/safespace.git` | Annonymous Peer-Led Chat | Public  |
+
+### Summer 2018, CS61B, UC Berkeley
+|                 | Repository                                                                                                            | Clone                                                               | Description                                 | Status  |
+|:---------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------:|:-------:|
+| [top](#indexes) | [`Berkeley-CS61B-Student/su18-Penguinlay`](https://github.com/Berkeley-CS61B-Student/su18-Penguinlay)                 | `git@github.com:Berkeley-CS61B-Student/su18-Penguinlay.git`         | Labs and Projects                           | Private |
+| [top](#indexes) | [`Berkeley-CS61B-Student/su18-super-group-gitlet`](https://github.com/Berkeley-CS61B-Student/su18-super-group-gitlet) | `git@github.com:Berkeley-CS61B-Student/su18-super-group-gitlet.git` | Final Project<br>Gitlet                     | Private |
 
 ### Fall 2018, CS61C, UC Berkeley
 |                 | Repository                                                                             | Clone                                     | Description                                 | Status  |
