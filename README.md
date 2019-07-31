@@ -36,8 +36,8 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 | [top](#indexes) | [`Cryptus`](https://github.com/Penguinlay/Cryptus)     | `git@github.com:Penguinlay/Cryptus.git`   | Final Project<br>Crytocurrency Market | Public           |
 
 ### Fall 2018, CS61C, UC Berkeley
-|                 | Repository                                                                             | Clone                                     | Description                               | Status  |
-|:---------------:|:--------------------------------------------------------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-------:|
-| [top](#indexes) | [`61c-fa18-proj2-penguinlay`](https://github.com/Penguinlay/61c-fa18-proj2-penguinlay) | `git@github.com:Penguinlay/fa17-lab1.git` | Project 2: Shape from Stereo, Performance | Private |
+|                 | Repository                                                                             | Clone                                     | Description                                 | Status  |
+|:---------------:|:--------------------------------------------------------------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------:|
+| [top](#indexes) | [`61c-fa18-proj2-penguinlay`](https://github.com/Penguinlay/61c-fa18-proj2-penguinlay) | `git@github.com:Penguinlay/fa17-lab1.git` | Project 2<br>Shape from Stereo, Performance | Private |
 
 ---
