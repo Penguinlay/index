@@ -1,5 +1,5 @@
-# indexes [Work-In-Progress]
-Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](https://github.com/Penguinlay)
+# indexes
+Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](https://github.com/Penguinlay) (work-in-progress)
 
 ---
 
@@ -45,5 +45,10 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 |                 | Repository                                                                             | Clone                                     | Description                                 | Status  |
 |:---------------:|:--------------------------------------------------------------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------:|
 | [top](#indexes) | [`61c-fa18-proj2-penguinlay`](https://github.com/Penguinlay/61c-fa18-proj2-penguinlay) | `git@github.com:Penguinlay/fa17-lab1.git` | Project 2<br>Shape from Stereo, Performance | Private |
+
+---
+
+## tdl
+- [ ] Update with private repos and projects.
 
 ---
