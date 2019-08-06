@@ -12,6 +12,7 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 | [top](#indexes) | [`brewers`](https://github.com/Penguinlay/brewers)                         | `git@github.com:Penguinlay/brewers.git`             | Brew File                                  | Private |
 | [top](#indexes) | [`recipes`](https://github.com/Penguinlay/recipes)                         | `git@github.com:Penguinlay/recipes.git`             | Code Snippet Library                       | Private |
 | [top](#indexes) | [`zesters`](https://github.com/Penguinlay/zesters)                         | `git@github.com:Penguinlay/zesters.git`             | Z Shell Script Library                     | Private |
+| [top](#indexes) | [`sudoku`](https://github.com/Penguinlay/sudoku)                           | `git@github.com:Penguinlay/sudoku.git`              | Sudoku                                     | Private |
 
 ---
 
