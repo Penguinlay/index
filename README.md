@@ -4,19 +4,14 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 ---
 
 ## current
-
-### public
-|                 | Repository                                         | Clone                                   | Description            |
-|:---------------:|:--------------------------------------------------:|:---------------------------------------:|:----------------------:|
-| [top](#indexes) | [`indexes`](https://github.com/Penguinlay/indexes) | `git@github.com:Penguinlay/indexes.git` | Repository Indexes     |
-
-### private
-|                 | Repository                                         | Clone                                   | Description            |
-|:---------------:|:--------------------------------------------------:|:---------------------------------------:|:----------------------:|
-| [top](#indexes) | [`basters`](https://github.com/Penguinlay/basters) | `git@github.com:Penguinlay/basters.git` | Bash Script Library    |
-| [top](#indexes) | [`brewers`](https://github.com/Penguinlay/brewers) | `git@github.com:Penguinlay/brewers.git` | Brew File              |
-| [top](#indexes) | [`recipes`](https://github.com/Penguinlay/recipes) | `git@github.com:Penguinlay/recipes.git` | Code Snippet Library   |
-| [top](#indexes) | [`zesters`](https://github.com/Penguinlay/zesters) | `git@github.com:Penguinlay/zesters.git` | Z Shell Script Library |
+|                 | Repository                                                                 | Clone                                               | Description                                                  | Status  |
+|:---------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------:|:------------------------------------------------------------:|:-------:|
+| [top](#indexes) | [`indexes`](https://github.com/Penguinlay/indexes)                         | `git@github.com:Penguinlay/indexes.git`             | Repository Indexes                                           | Public  |
+| [top](#indexes) | [`notion-inline-latex`](https://github.com/Penguinlay/notion-inline-latex) | `git@github.com:Penguinlay/notion-inline-latex.git` | UserScript for [notion.so](notion.so) Inline LaTeX Rendering | Public  |
+| [top](#indexes) | [`basters`](https://github.com/Penguinlay/basters)                         | `git@github.com:Penguinlay/basters.git`             | Bash Script Library                                          | Private |
+| [top](#indexes) | [`brewers`](https://github.com/Penguinlay/brewers)                         | `git@github.com:Penguinlay/brewers.git`             | Brew File                                                    | Private |
+| [top](#indexes) | [`recipes`](https://github.com/Penguinlay/recipes)                         | `git@github.com:Penguinlay/recipes.git`             | Code Snippet Library                                         | Private |
+| [top](#indexes) | [`zesters`](https://github.com/Penguinlay/zesters)                         | `git@github.com:Penguinlay/zesters.git`             | Z Shell Script Library                                       | Private |
 
 ---
 
