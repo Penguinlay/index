@@ -4,14 +4,14 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 ---
 
 ## current
-|                 | Repository                                                                 | Clone                                               | Description                                     | Status  |
-|:---------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------:|:-----------------------------------------------:|:-------:|
-| [top](#indexes) | [`indexes`](https://github.com/Penguinlay/indexes)                         | `git@github.com:Penguinlay/indexes.git`             | Repository Indexes                              | Public  |
-| [top](#indexes) | [`notion-inline-latex`](https://github.com/Penguinlay/notion-inline-latex) | `git@github.com:Penguinlay/notion-inline-latex.git` | UserScript for notion.so Inline LaTeX Rendering | Public  |
-| [top](#indexes) | [`basters`](https://github.com/Penguinlay/basters)                         | `git@github.com:Penguinlay/basters.git`             | Bash Script Library                             | Private |
-| [top](#indexes) | [`brewers`](https://github.com/Penguinlay/brewers)                         | `git@github.com:Penguinlay/brewers.git`             | Brew File                                       | Private |
-| [top](#indexes) | [`recipes`](https://github.com/Penguinlay/recipes)                         | `git@github.com:Penguinlay/recipes.git`             | Code Snippet Library                            | Private |
-| [top](#indexes) | [`zesters`](https://github.com/Penguinlay/zesters)                         | `git@github.com:Penguinlay/zesters.git`             | Z Shell Script Library                          | Private |
+|                 | Repository                                                                 | Clone                                               | Description                                | Status  |
+|:---------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------:|:------------------------------------------:|:-------:|
+| [top](#indexes) | [`indexes`](https://github.com/Penguinlay/indexes)                         | `git@github.com:Penguinlay/indexes.git`             | Repository Indexes                         | Public  |
+| [top](#indexes) | [`notion-inline-latex`](https://github.com/Penguinlay/notion-inline-latex) | `git@github.com:Penguinlay/notion-inline-latex.git` | notion.so Inline LaTeX Renderer UserScript | Public  |
+| [top](#indexes) | [`basters`](https://github.com/Penguinlay/basters)                         | `git@github.com:Penguinlay/basters.git`             | Bash Script Library                        | Private |
+| [top](#indexes) | [`brewers`](https://github.com/Penguinlay/brewers)                         | `git@github.com:Penguinlay/brewers.git`             | Brew File                                  | Private |
+| [top](#indexes) | [`recipes`](https://github.com/Penguinlay/recipes)                         | `git@github.com:Penguinlay/recipes.git`             | Code Snippet Library                       | Private |
+| [top](#indexes) | [`zesters`](https://github.com/Penguinlay/zesters)                         | `git@github.com:Penguinlay/zesters.git`             | Z Shell Script Library                     | Private |
 
 ---
 
@@ -36,10 +36,12 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 | [top](#indexes) | [`safespace`](https://github.com/Penguinlay/safespace) | `git@github.com:Penguinlay/safespace.git` | Annonymous Peer-Led Chat | Public  |
 
 ### Summer 2018, CS61B, UC Berkeley
-|                 | Repository                                                                                                            | Clone                                                               | Description                                 | Status  |
-|:---------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------:|:-------:|
-| [top](#indexes) | [`Berkeley-CS61B-Student/su18-Penguinlay`](https://github.com/Berkeley-CS61B-Student/su18-Penguinlay)                 | `git@github.com:Berkeley-CS61B-Student/su18-Penguinlay.git`         | Labs and Projects                           | Private |
-| [top](#indexes) | [`Berkeley-CS61B-Student/su18-super-group-gitlet`](https://github.com/Berkeley-CS61B-Student/su18-super-group-gitlet) | `git@github.com:Berkeley-CS61B-Student/su18-super-group-gitlet.git` | Final Project<br>Gitlet                     | Private |
+|                 | Repository                                                                                                                                      | Clone                                                               | Description             | Status  |
+|:---------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|:-----------------------:|:-------:|
+| [top](#indexes) | [`Berkeley-CS61B-Student/su18-Penguinlay`](https://github.com/Berkeley-CS61B-Student/su18-Penguinlay)                                           | `git@github.com:Berkeley-CS61B-Student/su18-Penguinlay.git`         | Labs and Projects       | Private |
+| [top](#indexes) | [`Berkeley-CS61B-Student/su18-Penguinlay/tree/master/nbody`](https://github.com/Berkeley-CS61B-Student/su18-Penguinlay/tree/master/nbody)       | `git@github.com:Berkeley-CS61B-Student/su18-Penguinlay.git`         | Project<br>Nbody        | Private |
+| [top](#indexes) | [`Berkeley-CS61B-Student/su18-Penguinlay/tree/master/bearmaps`](https://github.com/Berkeley-CS61B-Student/su18-Penguinlay/tree/master/bearmaps) | `git@github.com:Berkeley-CS61B-Student/su18-Penguinlay.git`         | Project<br>BearMaps     | Private |
+| [top](#indexes) | [`Berkeley-CS61B-Student/su18-super-group-gitlet`](https://github.com/Berkeley-CS61B-Student/su18-super-group-gitlet)                           | `git@github.com:Berkeley-CS61B-Student/su18-super-group-gitlet.git` | Final Project<br>Gitlet | Private |
 
 ### Fall 2018, CS61C, UC Berkeley
 |                 | Repository                                                                             | Clone                                     | Description                                 | Status  |
