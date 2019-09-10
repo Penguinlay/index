@@ -7,6 +7,7 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 |                 | Repository                                                                 | Clone                                               | Description                                | Status  |
 |:---------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------:|:------------------------------------------:|:-------:|
 | [top](#indexes) | [`indexes`](https://github.com/Penguinlay/indexes)                         | `git@github.com:Penguinlay/indexes.git`             | Repository Indexes                         | Public  |
+| [top](#indexes) | [`GamesmanUni`](https://github.com/GamesCrafters/GamesmanUni)              | `git@github.com:Penguinlay/uni.git`                 | Project GamesmanUni                        | Public  |
 | [top](#indexes) | [`notion-inline-latex`](https://github.com/Penguinlay/notion-inline-latex) | `git@github.com:Penguinlay/notion-inline-latex.git` | notion.so Inline LaTeX Renderer UserScript | Public  |
 | [top](#indexes) | [`basters`](https://github.com/Penguinlay/basters)                         | `git@github.com:Penguinlay/basters.git`             | Bash Script Library                        | Private |
 | [top](#indexes) | [`brewers`](https://github.com/Penguinlay/brewers)                         | `git@github.com:Penguinlay/brewers.git`             | Brew File                                  | Private |
@@ -14,11 +15,15 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 | [top](#indexes) | [`setters`](https://github.com/Penguinlay/setters)                         | `git@github.com:Penguinlay/setters.git`             | Custom Software Settings                   | Private |
 | [top](#indexes) | [`zesters`](https://github.com/Penguinlay/zesters)                         | `git@github.com:Penguinlay/zesters.git`             | Z Shell Script Library                     | Private |
 | [top](#indexes) | [`sudoku`](https://github.com/Penguinlay/sudoku)                           | `git@github.com:Penguinlay/sudoku.git`              | Sudoku                                     | Private |
-| [top](#indexes) | [`uni`](https://github.com/Penguinlay/uni)                                 | `git@github.com:Penguinlay/uni.git`                 | Project Uni                                | Private |
 
 ---
 
 ## past
+
+### Spring 2019, GamesCrafters, UC Berkeley
+|                 | Repository                                 | Clone                                     | Description | Status          |
+|:---------------:|:------------------------------------------:|:-----------------------------------------:|:-----------:|:---------------:|
+| [top](#indexes) | [`uni`](https://github.com/Penguinlay/uni) | `git@github.com:Penguinlay/uni.git`       | Project Uni | Public archived |
 
 ### Fall 2017, Ruby on Rails DeCal, UC Berkeley
 |                 | Repository                                             | Clone                                     | Description                           | Status           |
