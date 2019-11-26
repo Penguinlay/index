@@ -7,7 +7,7 @@ Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](htt
 |                 | Repository                                                                 | Clone                                               | Description                                | Status  |
 |:---------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------:|:------------------------------------------:|:-------:|
 | [top](#indexes) | [`indexes`](https://github.com/Penguinlay/indexes)                         | `git@github.com:Penguinlay/indexes.git`             | Repository Indexes                         | Public  |
-| [top](#indexes) | [`GamesmanUni`](https://github.com/GamesCrafters/GamesmanUni)              | `git@github.com:Penguinlay/uni.git`                 | Project GamesmanUni                        | Public  |
+| [top](#indexes) | [`GamesmanUni`](https://github.com/GamesCrafters/GamesmanUni)              | `git@github.com:GamesCrafters/GamesmanUni.git`      | Project GamesmanUni                        | Public  |
 | [top](#indexes) | [`notion-inline-latex`](https://github.com/Penguinlay/notion-inline-latex) | `git@github.com:Penguinlay/notion-inline-latex.git` | notion.so Inline LaTeX Renderer UserScript | Public  |
 | [top](#indexes) | [`basters`](https://github.com/Penguinlay/basters)                         | `git@github.com:Penguinlay/basters.git`             | Bash Script Library                        | Private |
 | [top](#indexes) | [`brewers`](https://github.com/Penguinlay/brewers)                         | `git@github.com:Penguinlay/brewers.git`             | Brew File                                  | Private |
