@@ -1,5 +1,5 @@
-# indexes
-Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](https://github.com/Penguinlay) (work-in-progress)
+# indexes (WIP)
+Repository [Indexes](https://github.com/Penguinlay/indexes) for [Penguinlay](https://github.com/Penguinlay) ([Shein Lin Phyo](https://sheinlinphyo.com))
 
 ---
 
